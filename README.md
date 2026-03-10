@@ -22,25 +22,23 @@ This project demonstrates a basic DAO-style voting mechanism where users can cre
 * Node.js
 
 ---
-
-## Project Structure
-
+```
 dao-voting/
-
+│
 ├── contracts
 │   └── Voting.sol
-
+│
 ├── scripts
 │   └── deploy.js
-
+│
 ├── test
 │   └── voting.test.js
-
+│
 ├── hardhat.config.js
 ├── package.json
 ├── .env.example
 └── README.md
-
+```
 ---
 
 ## Installation
