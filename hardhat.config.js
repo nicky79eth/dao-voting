@@ -14,7 +14,7 @@ module.exports = {
 
     testnet: {
       url: RPC_URL,
-      accounts: [PRIVATE_KEY]
+      accounts: [PRIVATE___KEY] 
     }
   }
 };
