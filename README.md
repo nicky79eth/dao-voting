@@ -8,8 +8,8 @@ This project demonstrates a basic DAO-style voting mechanism where users can cre
 
 ## Features
 
-* Create proposals
-* Vote on proposals
+* Create proposals.
+* Vote on proposals.
 * Track vote counts onchain
 
 ---
