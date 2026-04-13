@@ -10,7 +10,7 @@ This project demonstrates a basic DAO-style voting mechanism where users can cre
 
 * Create proposals.
 * Vote on proposals.
-* Track vote counts onchain
+* Track vote counts onchain.
 
 ---
 
@@ -43,7 +43,7 @@ dao-voting/
 
 ## Installation
 
-Clone the repository
+Clone the repository.
 
 ```
 git clone https://github.com/your-username/dao-voting.git
