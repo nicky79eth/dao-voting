@@ -86,8 +86,8 @@ npx hardhat run scripts/deploy.js --network localhost
 
 * token-based voting.
 * proposal execution.
-* voting time limits
-* DAO treasury integration
+* voting time limits.
+* DAO treasury integration.
 
 ---
 
